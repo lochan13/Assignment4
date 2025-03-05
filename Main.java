@@ -1,3 +1,8 @@
+
+// NAME : LOCHAN PAUDEL
+// PRN  : 23070126170
+// BATCH: 2023-27
+// BRANCH : AIML (A3)
 import java.util.*;
 
 public class Main {
