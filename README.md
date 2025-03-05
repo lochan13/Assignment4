@@ -47,5 +47,5 @@ Enter your choice (1-9):
      ```bash
      git add README.md
      git commit -m "Add README.md"
-     git push origin your-branch-name
+     git push origin main
    
