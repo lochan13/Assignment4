@@ -28,24 +28,3 @@ A menu-driven interface in `Main.java` allows users to interact with these featu
 9. Exit
 Enter your choice (1-9):
 
-
-
----
-
-### How to Use This README
-
-1. **Create the File**:
-   - Copy the above content into a file named `README.md` in the root directory of your project.
-
-2. **Customize**:
-   - Replace `https://github.com/lochan13/Assignment4` with the actual URL of your GitHub repository.
-   - Update the "Contact" section with your email or preferred contact method if you wish to include it.
-   - Adjust the repository name (`deck-of-cards-java`) to match your chosen name.
-
-3. **Push to GitHub**:
-   - Add, commit, and push the `README.md` file to your repository:
-     ```bash
-     git add README.md
-     git commit -m "Add README.md"
-     git push origin main
-   
